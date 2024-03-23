@@ -2,19 +2,22 @@
 
 
 # Next.JS Projects
-Tic Tac Toe
-https://tic-tac-toe-eta-eight-38.vercel.app/game
+Fullstack Portfolio
+https://portfolio-kkabidali856-gmailcom.ve
+
 
 Ecommerce Frontend
 https://kkstore-kkabidali856-gmailcom.vercel.app/
+
+Tic Tac Toe
+https://tic-tac-toe-eta-eight-38.vercel.app/game
 
 
 Bg Changer 
 https://bg-changer-nu.vercel.app/
 
 
-Fullstack Portfolio
-https://portfolio-kkabidali856-gmailcom.ve
+
 
 
 # Projects : HTML, CSS, JavaScript, Tailwind CSS
